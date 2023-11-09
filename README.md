@@ -1,0 +1,14 @@
+# Urban Outfitters web scraped data 
+
+## About the website
+
+**Urban Outfitters** is a multinational lifestyle retail corporation based out of Philadelphia, Pennsylvania, in the United States. It was founded in 1970 by Richard Hayne, Judy Wicks, and Scott Belair. The company operates in more than a dozen countries and trades under the NASDAQ stock exchange with the symbol URBN. Urban Outfitters launched its **[IPO](https://www.nasdaq.com/market-activity/ipos)** in 1993 and made $40m. The companys primary differentiation revolves around its unique, lifestyle-oriented, and hipster-inspired assortment of merchandise targeting a younger demographic. More information about Urban Outfitters can be found on **[Wikipedia](https://en.wikipedia.org/wiki/Urban_Outfitters)** and **[Bloomberg](https://www.bloomberg.com/profile/company/URBN:US)**.
+
+**Urban Outfitters** major competitors include "**[Abercrombie & Fitch](https://www.abercrombie.com/)**", "**[American Eagle Outfitters](https://www.ae.com/)**" and "**[Gap Inc.](https://www.gapinc.com/)**". They all mainly operate in the fast-fashion retail industry and target similar customer demographics with competitively priced products. **[Abercrombie & Fitch](https://en.wikipedia.org/wiki/Abercrombie_%26_Fitch)**, founded in 1892, is an upscale-casual wear retailer for young adults. **[American Eagle Outfitters](https://en.wikipedia.org/wiki/American_Eagle_Outfitters)**, founded in 1977, provides high-quality, on-trend clothing, accessories and personal care products. **[Gap Inc.](https://en.wikipedia.org/wiki/Gap_Inc.)** starting in 1969, has brands targeting various customer groups, from children to adults. Financial information about these companies can be found on **[Bloomberg](https://www.bloomberg.com/quote/ANF:US)**, **[Bloomberg](https://www.bloomberg.com/quote/AEO:US)** and **[Bloomberg](https://www.bloomberg.com/quote/GPS:US)** respectively.
+
+There are several use cases for web scraped data from **Urban Outfitters** website. The primary use case involves price monitoring. By consistently extracting data regarding product prices and discounts on Urban Outfitters website, competitors and market researchers can track pricing strategies and fluctuations. This kind of data is often used to gain insights into the brands sales events, promotional strategies, or markdown patterns. Additional use cases could include product assortment monitoring, where data is extracted regarding the variety of products offered by Urban Outfitters. This data can offer insights into inventory levels, trends, and assortment strategies. In addition, customer reviews can be scraped for sentiment analysis to understand market perception and areas of improvement for the brand.
+
+
+## Link to **dataset**
+
+[Urban Outfitters dataset](https://www.databoutique.com/buy-data-list-subset/Urban%20Outfitters%20web%20scraped%20data/r/recX9nshpl6zJBEon)
